@@ -1,0 +1,20 @@
+﻿h1{
+    text-align:center;    
+}
+p1 {
+}
+a:active {
+    text-decoration:none;
+}
+a:hover{
+    font-weight:bold;
+}
+a:link{
+    color:Brown;
+}
+a:visited{
+    color: Green;
+}
+footer{
+    text-align:center;
+}
